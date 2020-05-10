@@ -1,0 +1,6 @@
+格式：[filepath] [start] [end] [strings]
+[filepath]:exe文件路径
+[start]:要替换字符串的起始位置
+[end]：要替换字符串的结束位置
+[strings]：替换成的字符串
+注意：exe文件需要与脚本在同一文件夹下，被替换的字符串长度要大于等于像替换成的字符串长度。
