@@ -1,2 +1,2 @@
 # Yo-dimension-space
-Yoje's mysterious dimension space.
+在exe中替换指定起始地址和结束地址的字符串，如果要填充的字符串小于指定的字符串长度用空填充，不改变exe的结构。
